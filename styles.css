@@ -1,0 +1,236 @@
+.Nombre {
+    font-family: "Roboto", sans-serif;
+    color: rgb(32, 40, 110);
+    margin-top: 80px;
+    margin-left: 150px;
+}
+
+.Nombre img {
+    height: 30px;
+}
+
+.linea {
+    background-color: rgb(43, 163, 233);
+    width: 50px;
+    height: 3px;
+    margin-left: 150px;
+}
+
+.texto1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    margin-left: 150px;
+}
+.tx1 {
+margin-top: -20px;
+}
+
+.imagen img {
+    margin-top: 15px;
+    width: 500px;
+    height: 400px;
+    margin-left: 150px;
+}
+
+.profesion {
+    font-family: "Roboto", sans-serif;
+    color: rgb(32, 40, 110);
+    margin-top: -430px;
+    margin-left: 680px;
+}
+
+.texto2 {
+    font-family: "Roboto", sans-serif;
+    margin-top: -10px;
+    margin-left: 680px;
+
+}
+
+.tx2 {
+    margin-top: -15px;
+}
+
+#icono1 {
+    font-size: 20px;
+    margin-left: 720px;
+    margin-top: 20px;
+}
+
+.info1 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 7px;
+    margin-top: 20px;
+}
+
+#icono2 {
+    font-size: 20px;
+    margin-left: 720px;
+    margin-top: 10px;
+}
+
+.info2 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+#icono3 {
+    font-size: 20px;
+    margin-left: 720px;
+    margin-top: 10px;
+}
+
+.info3 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+#icono4 {
+    font-size: 20px;
+    margin-left: 720px;
+    margin-top: 10px;
+}
+
+.info4 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+.informacion1 {
+    display: flex;
+}
+
+#icono5 {
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.info5 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.informacion2 {
+    display: flex;
+}
+
+#icono6 {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.info6 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.informacion3 {
+    display: flex;
+}
+
+#icono7 {
+    font-size: 20px;
+    margin-left: 125px;
+    margin-top: 10px;
+}
+
+.info7 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.informacion4 {
+    display: flex;
+}
+
+#icono8 {
+    font-size: 20px;
+    margin-left: 225px;
+    margin-top: 10px;
+}
+
+.info8 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.texto3 {
+    font-family: "Roboto", sans-serif;
+    padding: 450px;
+    margin-top: -440px;
+    margin-left: 235px;
+    
+}
+
+.skills {
+    background: rgb(243, 248, 255);
+    margin-top: -350px;
+    padding: 300px;
+}
+
+.skills h1 {
+    font-family: "Roboto", sans-serif;
+    color: rgb(32, 40, 110);
+    margin-top: -220px;
+}
+
+.linea2 {
+    background-color: rgb(43, 163, 233);
+    width: 50px;
+    height: 3px;
+    margin-left: 300px;
+    margin-top: -460px;
+}
+
+.texto4 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 300px;
+
+}
+
+.tx3 {
+    margin-top: -15px;
+}
+
+.skills1 {
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    margin-left: 270px;
+}
+
+.lineahtml {
+    background-color: rgb(36, 145, 207);
+    width: 600px;
+    height: 15px;
+    margin-left: -87px;
+    border-radius: 10px;
+    margin-top: 35px;
+}
+
+.lineasombra1 {
+    background-color: rgb(223, 226, 230);
+    width: 600px;
+    height: 15px;
+    margin-left: -605px;
+    border-radius: 10px;
+    margin-top: 35px;
+    box-shadow: 100px;
+}
+
+.lineapython {
+    background-color: rgb(36, 145, 207);
+    width: 500px;
+    height: 15px;
+    margin-left: -85px;
+    border-radius: 10px;
+    margin-top: 35px;
+
+}
